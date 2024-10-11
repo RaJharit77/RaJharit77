@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaJharit77; I'm a IT student at Haute École d'Informatique - HEI
 - 👀 I’m interested in the field ot IT especially web development 
-- 🌱 I’m currently learning python, java, postgresql and react js
+- 🌱 I’m currently learning python, java, TypeScript, postgresql and react js
 - 💞️ I’m looking to collaborate with other developers like me who have the same ambition to learn even more in this area
 - 📫 You can reach me on my LinkedIn and my email account 
 - 😄 Pronouns: ...
