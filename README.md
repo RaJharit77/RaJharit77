@@ -16,10 +16,9 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaJhahrit77&layout=pie" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaJharit77&layout=pie" /> 
       </a>
     </td>
 </table>
 
 ![image](./img/wave.svg)
-
