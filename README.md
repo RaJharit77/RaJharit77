@@ -21,4 +21,4 @@
     </td>
 </table>
 
-![image](./img/wave.svg)
+
