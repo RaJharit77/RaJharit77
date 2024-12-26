@@ -3,16 +3,18 @@
 ![header](./img/RJ.jpg)
 
 # About me
+
 <img src="https://www.codewars.com/users/RaJharit77/badges/micro" alt="image"/> <img src="https://hei.school/wp-content/uploads/2022/09/cropped-Logo-e1662790239183.png" alt="image" width="50"/>
-- 👋 Hi, I’m @RaJharit77; I'm a IT student L2 at Haute École d'Informatique - HEI
+
+- 👋 Hi, I’m Rajoharitiana; I'm a IT student L2 at Haute École d'Informatique - HEI
 - 👀 I’m interested in the field ot IT especially web development 
-- 🌱 I’m currently learning nextjs, java, TypeScript...
+- 🌱 I’m currently learning Next.JS, TypeScript, NeonDB, Java, aws...
 
 ## 💻 Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,postgres,sqlite,react,vite,nextjs,github,idea,spring,postman,aws" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,tailwind,materialui,express,react,vite,next,prisma,postgres,sqlite,git,github,vscode,idea,postman,spring" />
   </a>
 </p>
 
