@@ -10,7 +10,7 @@
 - 👀 I’m interested in the field ot IT especially web development
 - 🌱 I’m currently learning Next.JS, TypeScript, NeonDB, Java, aws...
 
-## 💻 Tools
+## 💻 Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,6 +27,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaJharit77&layout=pie" /> 
       </a>
     </td>
+  </tr>
 </table>
 
 ![image](./img/wave.svg)
