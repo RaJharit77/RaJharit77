@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m Rajoharitiana; I'm a IT student L2 at Haute École d'Informatique - HEI
 - 👀 I’m interested in the field ot IT especially web development
-- 🌱 I’m currently learning Next.JS, TypeScript, NeonDB, Java, aws...
+- 🌱 I’m currently learning Next.JS, TypeScript, NeonDB, Java, AWS, Ruby, Ruby On Rails...
 
 ## 💻 Languages and Tools
 
