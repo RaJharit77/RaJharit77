@@ -4,7 +4,7 @@
 
 # About me
 
-<img src="https://www.codewars.com/users/RaJharit77/badges/large" alt="image"/> <img src="https://hei.school/wp-content/uploads/2025/09/cropped-Logo-HEI-carre%C2%A6u-32x32.png" alt="HEI_Logo" width="50"/>
+<img src="https://www.codewars.com/users/RaJharit77/badges/large" alt="image"/> <img src="./img/hei.jpg" alt="HEI_Logo" width="50"/>
 
 - 👋 Hi, I’m Rajoharitiana; I'm a IT student L2 at Haute École d'Informatique - HEI
 - 👀 I’m interested in the field ot IT especially web development
