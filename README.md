@@ -6,8 +6,8 @@
 
 <img src="https://www.codewars.com/users/RaJharit77/badges/large" alt="image"/> <img src="./img/hei_logo.png" alt="HEI_Logo" width="50"/>
 
-- 👋 Hi, I’m Rajoharitiana; I'm a IT student L3 at Haute École d'Informatique - HEI
-- 👀 I’m interested in the field ot IT especially web development
+- 👋 Hi, I’m Rajoharitiana. I'm a third-year IT student (L3) at Haute École d'Informatique (HEI) and a front-end developer.
+- 👀 I’m interested in the IT field, especially web development.
 - 🌱 I’m currently learning Nest.JS, Ruby, Ruby On Rails, Crystal...
 
 ## 💻 Languages and Tools
