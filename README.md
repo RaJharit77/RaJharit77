@@ -8,13 +8,13 @@
 
 - 👋 Hi, I’m Rajoharitiana. I'm a third-year IT student (L3) at Haute École d'Informatique (HEI) and a front-end developer.
 - 👀 I’m interested in the IT field, especially web development.
-- 🌱 I’m currently learning Nest.JS, Ruby, Ruby On Rails, Crystal...
+- 🌱 I’m currently learning Nest.JS, Ruby, Ruby On Rails, Crystal.
 
 ## 💻 Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,ts,ruby,tailwind,vite,react,next,prisma,postgres,git,github,vscode,idea,postman" />
+    <img src="https://skillicons.dev/icons?i=js,java,ts,python,tailwind,vite,react,next,prisma,postgres,git,github,vscode,idea,postman" />
   </a>
 </p>
 
