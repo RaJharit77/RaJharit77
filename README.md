@@ -53,7 +53,9 @@ I'm currently exploring back-end development with **NestJS, Ruby, and Ruby on Ra
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaJharit77&layout=compact&langs_count=8&hide_border=true" alt="Most-used languages in RaJharit77's public GitHub repositories" />
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaJharit77&layout=pie" /> 
+      </a>
 </p>
 
 <p align="center">
