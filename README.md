@@ -38,16 +38,16 @@ I'm currently exploring back-end development with **NestJS, Ruby, and Ruby on Ra
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nestjs,ruby,rails,prisma,postgres,python,java,git,github,vscode,idea,postman&perline=8" alt="Technologies and tools: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite, NestJS, Ruby, Rails, Prisma, PostgreSQL, Python, Java, Git, GitHub, VS Code, IntelliJ IDEA, and Postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,java,python,prisma,postgres,git,github,vscode,webstorm,idea,postman&perline=8" alt="Technologies and tools: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Vite.js, Node.js, Java, Python,Prisma, PostgreSQL, Git, GitHub, VS Code, WebStorm, IntelliJ IDEA and Postman" />
 </p>
 
 <details>
   <summary><strong>Technologies at a glance</strong></summary>
 
-  - **Front end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite
-  - **Back end & database:** NestJS, Ruby, Ruby on Rails, Prisma, PostgreSQL
-  - **Other languages:** Python, Java
-  - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Postman
+  - **Front end:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Vite.js
+  - **Back end & database:** Node.js, Prisma, PostgreSQL
+  - **Other languages:** Java, Python
+  - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Postman, WebStorm
 </details>
 
 ## GitHub
