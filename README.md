@@ -6,9 +6,12 @@
 
 <img src="https://www.codewars.com/users/RaJharit77/badges/large" alt="image"/> <img src="./img/hei_logo.png" alt="HEI_Logo" width="50"/>
 
-- 👋 Hi, I’m Rajoharitiana. I'm a third-year IT student (L3) at Haute École d'Informatique (HEI) and a front-end developer.
-- 👀 I’m interested in the IT field, especially web development.
-- 🌱 I’m currently learning Nest.JS, Ruby, Ruby On Rails, Crystal.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rajoharitiana-raharison-27r7h17a37/)
+[![Email](https://img.shields.io/badge/rajoharitiana.raharison@gmail.com-red?style=flat-square&logo=gmail)]
+
+👋 Hi, I'm Rajoharitiana — L3 IT student at Haute École d'Informatique (HEI) and front‑end engineer delivering production‑ready, user‑focused web interfaces.
+👀 Strong foundation in JavaScript/TypeScript, React/Next.js, Tailwind and modern tooling; passionate about performance, accessibility and shipping quality code.
+🌱 Expanding back‑end skills with NestJS, Ruby and Ruby on Rails. Open to internships and junior front‑end roles — available for new opportunities.
 
 ## 💻 Languages and Tools
 
@@ -18,7 +21,21 @@
   </a>
 </p>
 
+<details>
+  <summary>Technologies & Tools</summary>
+
+  - JavaScript / TypeScript  
+  - React, Next.js  
+  - Tailwind, Vite  
+  - NestJS, Ruby, Rails
+
+</details>
+
 ## Stats 〽️
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaJharit77&layout=compact" alt="Top languages" />
+</p>
 
 <table>
   <tr>
