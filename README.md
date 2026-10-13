@@ -38,7 +38,7 @@ I'm currently exploring back-end development with **NestJS, Ruby, and Ruby on Ra
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,node.js,java,python,prisma,postgres,git,github,vscode,idea,postman&perline=8" alt="Technologies and tools: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Vite.js, Node.js, Java, Python,Prisma, PostgreSQL, Git, GitHub, VS Code, IntelliJ IDEA, and Postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,java,python,prisma,postgres,git,github,vscode,idea,postman,webstorm&perline=8" alt="Technologies and tools: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Vite.js, Node.js, Java, Python,Prisma, PostgreSQL, Git, GitHub, VS Code, IntelliJ IDEA, WebStorm and Postman" />
 </p>
 
 <details>
@@ -47,7 +47,7 @@ I'm currently exploring back-end development with **NestJS, Ruby, and Ruby on Ra
   - **Front end:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Vite.js
   - **Back end & database:** Node.js, Prisma, PostgreSQL
   - **Other languages:** Java, Python
-  - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Postman
+  - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Postman, WebStorm
 </details>
 
 ## GitHub
