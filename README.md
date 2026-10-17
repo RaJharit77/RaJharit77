@@ -38,7 +38,7 @@ I'm currently exploring back-end development with **NestJS, Ruby, and Ruby on Ra
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,java,python,prisma,postgres,git,github,vscode,webstorm,idea,postman&perline=8" alt="Technologies and tools: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Vite.js, Node.js, Java, Python,Prisma, PostgreSQL, Git, GitHub, VS Code, WebStorm, IntelliJ IDEA and Postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nextjs,tailwind,nodejs,java,python,prisma,postgres,git,github,vscode,webstorm,idea,postman&perline=8" alt="Technologies and tools: HTML, CSS, JavaScript, TypeScript, Vite.js, React.js, Next.js, Tailwind CSS,Node.js, Java, Python,Prisma, PostgreSQL, Git, GitHub, VS Code, WebStorm, IntelliJ IDEA and Postman" />
 </p>
 
 <details>
